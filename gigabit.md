@@ -9,7 +9,7 @@
 2. Xiaomi Router AX3200
 3. Asus RT-AX52, RT-AX53U, RT-AX1800U
 4. Cudy WR1300, WR3000, WR3000S, M1300, TR3000
-5. Netis NX31
+5. Netis NX31, N6
 6. Keenetic Speedster, Racer, Viva. Дичайший оверпрайс по сравнению с остальными, но не требует прошивки.
 
 <br>
