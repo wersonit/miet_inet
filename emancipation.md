@@ -8,7 +8,7 @@ Xiaomi: AX3000T v1 (v2 [не подойдет](/xiaomi_revs.md)), AX3200, AX6000
 Asus: RT-AX53U, TUF-AX4200<br><br>
 Routerich: AX3000<br><br>
 Netis: NX31, N6<br><br>
-Mercusys: MR80X<br><br>
+Mercusys: MR80X v3<br><br>
 Cudy: WR3000, M1800, TR3000 <br><br><br>
 
 ## Подержанные
