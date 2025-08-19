@@ -22,7 +22,6 @@
 ## Настройка роутера
 
 [Настройка роутера Keenetic](setup/keenetic.md)<br><br>
-[Настройка роутера D-Link](setup/d-link.md)<br><br>
 [Настройка роутера на Openwrt](setup/openwrt.md)<br><br><br>
 
 ## Прочее
