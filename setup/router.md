@@ -7,7 +7,6 @@
 ## У меня есть роутер, и он уже прошит
 
 [У меня есть роутер Keenetic](/setup/keenetic.md)<br><br>
-[У меня есть роутер D-Link](/setup/d-link.md)<br><br>
 [У меня есть роутер на OpenWRT](/setup/openwrt.md)<br><br>
 <br>
 
@@ -16,9 +15,9 @@
 Я могу прошить вам роутер, пишите в [telegram](https://t.me/aogudugnp)<br><br>
 [Зачем нужна прошивка](/firmware.md)<br><br>
 [Какие роутеры можно прошить](/lists/routers.md)<br><br>
-Новые роутеры [Keenetic](/images/keenetic/keenetics.jpg) и некоторые роутеры [D-Link](/setup/d-link.md#список-подходящих-моделей) не требуют прошивки!<br><br><br>
+Новые роутеры [Keenetic](/images/keenetic/keenetics.jpg) не требуют прошивки!<br><br><br>
 
 ## У меня нет роутера, хочу купить
 
-Можете обратиться ко мне в [telegram](https://t.me/aogudugnp) или купить самостоятельно один из [этих](/lists/routers.md), или [Keenetic](/images/keenetic/keenetics.jpg) из числа новых, или [D-Link](/setup/d-link.md#список-подходящих-моделей) <br><br>
+Можете обратиться ко мне в [telegram](https://t.me/aogudugnp) или купить самостоятельно один из [этих](/lists/routers.md), или [Keenetic](/images/keenetic/keenetics.jpg) из числа новых<br><br>
 [На что стоит обратить внимание при выборе роутера](/router_specs.md)<br><br>
