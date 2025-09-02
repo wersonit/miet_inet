@@ -17,7 +17,7 @@ daemon.notice wpa_supplicant[1234]: eth0.2: CTRL-EVENT-EAP-SUCCESS EAP authentic
 daemon.notice wpa_supplicant[1234]: eth0.2: CTRL-EVENT-CONNECTED - Connection to 01:80:c2:00:00:03 completed
 daemon.notice wpa_supplicant[1234]: no PHY for ifname eth0.2
 ```
-<br>Если вы видите именно это, то авторизация прошла успешно и далее можно подключать тариф у провайдера. Если же у вас выводит что-то другое, то вам [сюда](/setup/troubleshooting.md)<br><br>
+<br>Если вы видите именно это, то авторизация прошла успешно и далее можно подключать тариф у провайдера. Если же у вас выводит что-то другое, то вам [сюда](/setup/troubleshooting.md#вариант-1)<br><br>
 
 ## Настройка Wi-Fi<br>
 1. Название Wi-Fi по умолчанию указано внизу роутера. Пароль Wi-Fi по умолчанию - 1234567890. После того, как вы подключились к роутеру, откройте браузер и перейдите по адресу 192.168.1.1. Логин по умолчанию - `root`, пароль - `admin`. <br><br>
