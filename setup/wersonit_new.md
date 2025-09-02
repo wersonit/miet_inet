@@ -14,7 +14,7 @@
 daemon.notice wpa_supplicant[1234]: EAP-MSCHAPV2: Authentication succeeded
 daemon.notice wpa_supplicant[1234]: EAP-TLV: TLV Result - Successs - EAP-TLV/Phase2 Completed
 daemon.notice wpa_supplicant[1234]: eth0.2: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
-daemon.notice wpa_supplicant[1234]: eth0.2: CTRL-EVENT-CONNECTED - Connection to 01:80:c2:00:00:03 completed
+daemon.notice wpa_supplicant[1234]: eth0.2: CTRL-EVENT-CONNECTED - Connection to 01:80:c2:00:00:03 completed [id=0 id_str=]
 daemon.notice wpa_supplicant[1234]: no PHY for ifname eth0.2
 ```
 <br>Если вы видите именно это, то авторизация прошла успешно и далее можно подключать тариф у провайдера. Если же у вас выводит что-то другое, то вам [сюда](/setup/troubleshooting.md#вариант-1)<br><br>
