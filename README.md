@@ -27,4 +27,4 @@
 ## Прочее
 
 [Гигабитный интернет в общежитии?](gigabit.md)<br><br>
-[Раскрепощение роутера](emancipation.md)<br><br><br>
+[Волшебные роутеры](emancipation.md)<br><br><br>
