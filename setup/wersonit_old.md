@@ -22,5 +22,24 @@
 
 ## Настройка Wi-Fi<br>
 
-1. Снова зайдите в админку с помощью команды `ssh root@192.168.1.1`.<br><br>
-2. Чтобы задать имя сети, выполните команду `uci set wireless.network.ssid='aboba'`
+1. Снова зайдите в админку с помощью команды `ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.1.1`.<br><br>
+2. Чтобы настроить Wi-Fi, выполните последовательно следующие команды: <br><br>
+   ```
+   uci set wireless.radio0.channel='8'
+   
+   uci set wireless.radio0.country='RU'
+   
+   uci set wireless.radio0.disabled='0'
+    
+   uci set wireless.@wifi-iface[0].ssid='имя сети'
+   
+   uci set wireless.@wifi-iface[0].encryption='psk-mixed'
+   
+   uci set wireless.@wifi-iface[0].key='пароль'
+
+   uci commit
+   
+   wifi reload
+   ```
+   Номер канала может быть от 1 до 13. <br>
+   Пароль должен быть минимум 8 символов в длину. В нем, как и в имени сети, могут быть только латинские буквы, а также цифры и символы. <br>
