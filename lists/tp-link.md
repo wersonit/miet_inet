@@ -47,7 +47,7 @@
 | Archer C20 / A2 | v1, v4, v5   |
 | Archer C50 | v1, v3-6  |
 | Archer C60 | v1-3  |
-| Archer A5 | v5, v6 |
+| Archer A5 | v4-6 |
 | TL-WDR3500 | v1 |
 
 <br>
