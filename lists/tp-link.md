@@ -44,8 +44,7 @@
 | Archer C50       | v1, v3-6       | 5 (AC) | 100        | 64/8              |
 | Archer A5        | v4, v5, v6     | 5 (AC) | 100        | 64/8              |
 | Archer C60       | v1, v2, v3     | 5 (AC) | 100        | 64/8              |
-| Archer C2        | v3             | 5 (AC) | 1000       | 64/8              |
-| Archer C2 AC750  | v1             | 5 (AC) | 1000       | 64/8              |
+| Archer C2        | v1, v3         | 5 (AC) | 1000       | 64/8              |
 | Archer C5        | v4             | 5 (AC) | 1000       | 64/8              |
 | EC220-G5         | v2             | 5 (AC) | 1000       | 64/8              |
 
@@ -62,7 +61,7 @@
 | Archer A6        | v2, v3         | 5 (AC) | 1000       | 128/16            |
 | Archer A7        | v5             | 5 (AC) | 1000       | 128/16            |
 | Archer A9        | v6             | 5 (AC) | 1000       | 128/16            |
-| Archer C5        | v1, v2         | 5 (AC) | 1000       | 128/16            |
+| Archer C5        | v1             | 5 (AC) | 1000       | 128/16            |
 | Archer C6        | v2, v3         | 5 (AC) | 1000       | 128/16            |
 | Archer C6U       | v1             | 5 (AC) | 1000       | 128/16            |
 | Archer C7        | v1-5           | 5 (AC) | 1000       | 128/16            |
