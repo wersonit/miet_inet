@@ -8,8 +8,8 @@
 | Mi Router 4C                 | -                   | 4      | 100        | 64/16             |            |
 | MiWiFi Mini                  | -                   | 5 (AC) | 100        | 128/16            |            |
 | Mi Router 4                  | -                   | 5 (AC) | 1000       | 128/128           |            |
-| Mi Router 3G v1              | -                   | 5 (AC) | 1000       | 256/128           | Волшебный  |
-| Mi Router 3G v2              | -                   | 5 (AC) | 1000       | 128/16            |            |
+| Mi Router 3G                 | v1                  | 5 (AC) | 1000       | 256/128           | Волшебный  |
+| Mi Router 3G                 | v2                  | 5 (AC) | 1000       | 128/16            |            |
 | Mi Router 4A                 | v1, v2              | 5 (AC) | 100        | 64/16             |            |
 | Mi Router 4A Gigabit Edition | v1, v2              | 5 (AC) | 1000       | 128/16            | В магазинах сейчас продается только v3,<br>который [нельзя прошить](/xiaomi_revs.md) |
 | Mi Router AC2100             | -                   | 5 (AX) | 1000       | 128/128           | Волшебный  |
