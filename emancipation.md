@@ -14,7 +14,7 @@ Cudy: WR3000, WR3000S, WR3000H, WR3000E, WR3000P, M1800, TR3000 <br><br><br>
 ## Подержанные
 Эти роутеры тоже волшебные, но уже давно не продаются в магазинах. Только на Авито. <br><br>
 Beeline: SmartBox Giga /  Pro / Turbo (но не Turbo+!) / Flash <br><br>
-Xiaomi: 3G <br><br>
+Xiaomi: 3G v1, R3P,  <br><br>
 Остальные производители: см. [здесь](/lists/routers.md) <br><br><br>
 
 ## Дополнительно
