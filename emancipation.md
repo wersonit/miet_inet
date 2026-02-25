@@ -4,12 +4,12 @@
 
 ## Новые<br>
 Здесь перечислены самые доступные роутеры, которые можно прямо сейчас купить в магазине <br><br>
-Xiaomi: AX3000T v1 (v2 [не подойдет](/xiaomi_revs.md)), AX3200, AX6000 <br><br>
+Xiaomi: AX3000T v1 на Mediatek (v2 на Qualcomm [не подойдет](/xiaomi_revs.md)), AX3200, AX6000 <br><br>
 Asus: RT-AX52, RT-AX53U, RT-AX1800U, TUF-AX4200 <br><br>
 Routerich: AX3000 <br><br>
 Netis: NX31, N6 <br><br>
 Mercusys: MR80X v3 <br><br>
-Cudy: WR3000, M1800, TR3000 <br><br><br>
+Cudy: WR3000(S, E, H, P), M1800, TR3000 <br><br><br>
 
 ## Подержанные
 Эти роутеры тоже волшебные, но уже давно не продаются в магазинах. Только на Авито. <br><br>
