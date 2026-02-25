@@ -8,7 +8,7 @@ Xiaomi: AX3000T v1 на Mediatek (v2 на Qualcomm [не подойдет](/xiao
 Asus: RT-AX52, RT-AX53U, RT-AX1800U, TUF-AX4200 <br><br>
 Routerich: AX3000 <br><br>
 Netis: NX31, N6 <br><br>
-Mercusys: MR80X v3 <br><br>
+Mercusys: MR90X <br><br>
 Cudy: WR3000, WR3000S, WR3000H, WR3000E, WR3000P, M1800, TR3000 <br><br><br>
 
 ## Подержанные
