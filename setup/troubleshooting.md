@@ -15,6 +15,9 @@ It is also possible that a host key has just been changed.
 2. При выполнении `ssh root@192.168.1.1` выдает ошибку `Unable to negotiate with 192.168.1.1 port 22: no matching host key type found. Their offer: ssh-rsa`<br><br>
 Решение: использовать для подключения команду `ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.1.1`<br><br><br>
 
+3. При выполнении `ssh root@192.168.1.1` выдает ошибку `Unable to negotiate with 192.168.1.1 port 22: no matching MAC found. Their offer: hmac-md5, hmac-sha1`<br><br>
+Решение: использовать для подключения команду `ssh -oHostKeyAlgorithms=+ssh-rsa -oMACs=+hmac-sha1 root@192.168.1.1`<br><br><br>
+
 ## Проблемы с работой интернета
 1. После перезагрузки не открывается ничего, кроме ВК и ориокса.<br><br>
 Это происходит в случае, если на роутере выставлена неправильная [дата](/setup/wersonit_new.md#настройка-нового-роутера-с-прошивкой-от-меня-wersonit), или если вы не выбрали тариф в личном кабинете OnPlus, а также, в более редких случаях, если у роутера задан неправильный [MAC-адрес](/setup/macaddr.md).<br><br><br>
