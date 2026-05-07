@@ -26,10 +26,10 @@ Cudy: X6, NX31, WR3000, WR3000S, WR3000H, WR3000E, WR3000P (только v1, v2 
 | :--- | :--- | :--- | :--- | :--- |
 | TP-Link Archer C5 | v4 | 64/8 | 256/32 | Слабый процессор<br>Тележку тянуть не может |
 | TP-Link EC220-G5 | v2 | 64/8 | 256/32 | Слабый процессор<br>Тележку тянуть не может |
-| Xiaomi Router 4A Gigabit Edition<br>Xiaomi Router 3G v2 | v1, v2 | 128/16 | 512/1024 |
-| Xiaomi Router 4 |  | 128/128 | 512/1024 |
-| Beeline Smartbox Turbo+ |  | 128/128 | 512/1024 |
-| Cudy WR3000 | v1 | 256/16 | 1024/1024+ |
+| Xiaomi Router 4A Gigabit Edition<br>Xiaomi Router 3G v2 | v1, v2 | 128/16 | 512/1024 | Поддерживает все фокусы |
+| Xiaomi Router 4 |  | 128/128 | 512/1024 | Поддерживает все фокусы |
+| Beeline Smartbox Turbo+ |  | 128/128 | 512/1024 | Поддерживает все фокусы |
+| Cudy WR3000 | v1 | 256/16 | 1024/1024+ | Поддерживает все фокусы |
 
 
 ## Дополнительно
