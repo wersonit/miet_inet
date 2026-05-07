@@ -7,15 +7,16 @@
 Xiaomi: AX3000T v1 на Mediatek (v2 на Qualcomm [не подойдет](/xiaomi_revs.md)), AX3200, AX6000 <br><br>
 Asus: RT-AX52, RT-AX53U, RT-AX1800U, TUF-AX4200 <br><br>
 Routerich: AX3000 <br><br>
-Netis: NX30V2, NX31, NX32U, N6 <br><br>
+Netis: NX30V2, NX32U, N6 <br><br>
 Mercusys: MR85X, MR90X <br><br>
-Cudy: M1800, TR3000 <br><br><br>
+Cudy: M1800, M3000, TR3000 <br><br>
+SNR: AX2<br><br><br>
 
 ## Подержанные
 Эти роутеры тоже волшебные, но уже давно не продаются в магазинах. Только на Авито. <br><br>
 Beeline: SmartBox Giga / Pro / Turbo (но не Turbo+!) / Flash <br><br>
 Xiaomi: 3G v1, R3P  <br><br>
-Cudy: WR3000, WR3000S, WR3000H, WR3000E, WR3000P (только v1, v2 не подойдет) <br><br>
+Cudy: X6, NX31, WR3000, WR3000S, WR3000H, WR3000E, WR3000P (только v1, v2 не подойдет) <br><br>
 Остальные производители: см. [здесь](/lists/routers.md) <br><br><br>
 
 ## Дополнительно
