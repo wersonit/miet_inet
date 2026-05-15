@@ -43,5 +43,5 @@ Cudy: X6 v1 или v2, WR3000, WR3000S, WR3000H, WR3000E, WR3000P (только 
 
 ## Дополнительно
 Полные списки роутеров, которые поддерживают OpenWRT и волшебство, доступны по ссылкам: <br><br>
-Роутеры с поддержкой Wi-Fi 5: [ссылка](https://openwrt.org/toh/views/toh_available_864_ac-wifi) (см. столбец RAM, должно быть $\geq$ 256 и Flash MB, должно быть $\geq$ 16) <br><br>
-Роутеры с поддержкой Wi-Fi 6: [ссылка](https://openwrt.org/toh/views/toh_available_16128_ax-wifi) (см. столбец RAM, должно быть $\geq$ 256 и Flash MB, должно быть $\geq$ 16)
+Роутеры с поддержкой Wi-Fi 5: [ссылка](https://openwrt.org/toh/views/toh_available_864_ac-wifi) (см. столбец RAM, должно быть $\geq$ 256 и Flash MB, должно быть $\geq$ 32) <br><br>
+Роутеры с поддержкой Wi-Fi 6: [ссылка](https://openwrt.org/toh/views/toh_available_16128_ax-wifi) (см. столбец RAM, должно быть $\geq$ 256 и Flash MB, должно быть $\geq$ 32)
