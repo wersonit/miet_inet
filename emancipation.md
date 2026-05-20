@@ -10,7 +10,7 @@ Asus: RT-AX52, RT-AX53U, RT-AX1800U, TUF-AX4200 <br><br>
 Routerich: AX3000 <br><br>
 Netis: NX30V2, N6 <br><br>
 Mercusys: MR85X, MR90X <br><br>
-Cudy: M1800, M3000, TR3000 <br><br>
+Cudy: M1800, M3000, WBR3000UAX, TR3000 <br><br>
 SNR: AX2<br><br><br>
 
 ## Подержанные
