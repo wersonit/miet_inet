@@ -17,7 +17,7 @@ SNR: AX2<br><br><br>
 Эти роутеры тоже волшебные, но уже давно не продаются в магазинах. Только на Авито. <br><br>
 Beeline: SmartBox Giga / Pro / Turbo (но не Turbo+!) / Flash <br><br>
 Xiaomi: 3G v1, R3P  <br><br>
-Netis: NX31, NX32U
+Netis: NX31, NX32U <br><br>
 Cudy: X6 v1 или v2, WR3000, WR3000S, WR3000H, WR3000E, WR3000P (только v1, v2 не подойдет) <br><br>
 Остальные производители: см. [здесь](/lists/routers.md) <br><br><br>
 
