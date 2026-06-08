@@ -15,7 +15,7 @@
 Я могу прошить вам роутер, пишите в [telegram](https://t.me/aogudugnp)<br><br>
 [Зачем нужна прошивка](/firmware.md)<br><br>
 [Какие роутеры можно прошить](/lists/routers.md)<br><br>
-Новые роутеры [Keenetic](/images/keenetic/keenetics.jpg) не требуют прошивки. <br>
+Новые роутеры [Keenetic](/setup/keenetic.md) не требуют прошивки!<br><br>
 
 ## У меня нет роутера, хочу купить
 
