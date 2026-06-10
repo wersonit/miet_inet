@@ -6,11 +6,9 @@
 
 Далее перечислены гигабитные роутеры, которые прямо сейчас продаются в магазинах и которые я могу рекомендовать к покупке новыми:
 1. Tp-Link Archer C6 v2, Archer AX23
-2. Xiaomi Router AX3200
-3. Asus RT-AX52, RT-AX53U, RT-AX1800U
-4. Cudy WR1300, WR3000, WR3000S, M1300, TR3000
-5. Netis NX31, N6
-6. Keenetic Speedster, Racer, Viva. Дичайший оверпрайс по сравнению с остальными, но не требует прошивки.
+2. Asus RT-AX52, RT-AX53U, RT-AX1800U
+3. Cudy M1800, M3000, WBR3000UAX, TR3000
+4. Netis NX30v2
 
 <br>
 
