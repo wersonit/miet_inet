@@ -1,6 +1,6 @@
 # Настройка роутера Keenetic (Netcraze)
 
-> [!WARNING]
+> [!TIP]
 > Лучше купите [что-то с поддержкой OpenWRT](/lists/routers.md), а не Keenetic.
 
 <br>
