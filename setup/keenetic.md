@@ -26,7 +26,7 @@
 | Keenetic Start<br>Starter<br>Lite<br>Omni | Xiaomi 4C<br>Cudy WR300<br>TP-Link TL-WR840N v4 | >1500 против 500-700 |
 | Keenetic Air<br>City<br>Extra<br>Explorer<br>Carrier | Xiaomi 4A<br>TP-Link Archer C5 v4<br>TP-Link EC220-G5 | >2000 против 1000-1500 |
 | Keenetic Speedster<br>Viva<Skipper> | Xiaomi 4A GE<br>Xiaomi 3G v1<br>Beeline SmartBox Turbo+<br>Beeline Smartbox GIGA | >6000 против 2000-2500 |
-| Keenetic Challenger<br>Racer<br>Hopper<br>Sprinter<br>Giga<br>Giant | Netis NX30 v2<br>SNR AX2<br>Redmi AX6 | >6500-12000 против 3000-4000 |
+| Keenetic Challenger<br>Racer<br>Hopper<br>Sprinter<br>Giga<br>Ultra | Netis NX30 v2<br>SNR AX2<br>Redmi AX6 | >6500-15000 против 3000-4000 |
 
 <br>
 
