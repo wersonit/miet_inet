@@ -24,7 +24,7 @@
 | Модель                          | Аналог              | Соотношение цен |
 | :------------------------------ | :------------------ | :-------------- | 
 | Keenetic Start<br>Keenetic Starter<br>Keenetic Lite<br>Keenetic Omni   | Xiaomi 4C<br>Cudy WR300<br>TP-Link TL-WR840N v4 | >1500 против 500-700 |
-| Keenetic Air<br>Keenetic City<br>Keenetic Extra<br>Keenetic Explorer| Xiaomi 4A<br>TP-Link Archer C5 v4 | >2000 против 1000-1500 |
+| Keenetic Air<br>Keenetic City<br>Keenetic Extra<br>Keenetic Explorer| Xiaomi 4A<br>TP-Link Archer C5 v4<br>TP-Link EC220-G5 | >2000 против 1000-1500 |
 | Keenetic Speedster<br>Viva | Xiaomi 4A Gigabit Edition<br>Beeline SmartBox Turbo+ | >6000 против 2000-2500 |
 | Keenetic Challenger<br>Racer<br>Hopper<br>Sprinter | Netis NX30 v2<br>SNR AX2<br>Redmi AX6 | >6500-12000 против 3000-4000 |
 
