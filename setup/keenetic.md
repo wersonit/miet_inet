@@ -23,18 +23,35 @@
 
 | Модель                          | Аналог              | Соотношение цен |
 | :------------------------------ | :------------------ | :-------------- | 
-| Keenetic Start<br>Starter<br>Launcher<br>Lite<br>Omni | Xiaomi 4C<br>Cudy WR300<br>TP-Link TL-WR840N v4 | >1500 против 500-700 |
+| Keenetic Start<br>Starter<br>Launcher<br>Lite<br>Omni | Xiaomi 4C<br>Cudy WR300<br>TP-Link TL-WR840N v4 | >1500 против 500-800 |
 | Keenetic Air<br>City<br>Extra<br>Explorer<br>Carrier | Xiaomi 4A<br>TP-Link Archer C5 v4<br>TP-Link EC220-G5 | >2000 против 1000-1500 |
 | Keenetic Speedster<br>Viva<br>Skipper | Xiaomi 4A GE<br>Xiaomi 3G v1<br>Beeline SmartBox Turbo+<br>Beeline Smartbox GIGA | >6000 против 2000-2500 |
-| Keenetic Challenger<br>Racer<br>Hopper<br>Sprinter<br>Giga<br>Ultra | Netis NX30 v2<br>SNR AX2<br>Redmi AX6 | >6500-15000 против 3000-4000 |
+| Keenetic Challenger<br>Racer<br>Hopper<br>Sprinter<br>Giga<br>Ultra | Netis NX30 v2<br>SNR AX2<br>Redmi AX6 | >6500-15000 против 3500-4000 |
 
 <br>
 
 ## Настройка авторизации в сети МИЭТ
+1. Подключитесь к роутеру по Wi-Fi или по проводу. В браузере перейдите по адресу 192.168.1.1. Нажмите "Начать настройку".
+![keenetic, шаг 1](/images/keenetic/keenetic_1.jpg)<br><br>
+2. Нажмите "ВЫЙТИ ИЗ МАСТЕРА".
+![keenetic, шаг 2](/images/keenetic/keenetic_2.jpg)<br><br>
+3. Выберите правильную страну и часовой пояс. Обычно она уже стоит правильная.
+![keenetic, шаг 3](/images/keenetic/keenetic_3.jpg)<br><br>
+4. Примите два соглашения.
+![keenetic, шаг 4.1](/images/keenetic/keenetic_4_1.jpg)<br>
+![keenetic, шаг 4.2](/images/keenetic/keenetic_4_2.jpg)<br><br>
+5. Создайте пароль администратора.
+![keenetic, шаг 5](/images/keenetic/keenetic_5.jpg)<br><br>
+6. Спустя некоторое время роутер пустит вас в панель управления. В правом меню откройте раздел "Интернет".
+![keenetic, шаг 6](/images/keenetic/keenetic_6.jpg)<br><br>
+7. Пролистайте вниз, и в пункте "Проверка подлинности по стандарту 802.1x" выберите EAP-PEAP/MSCHAPv2. Ниже укажите логин и пароль от ориокса.
+![keenetic, шаг 7](/images/keenetic/keenetic_7.jpg)<br><br>
+8. Если нужно сменить mac-адрес, пролистайте чуть выше. Тут у вас есть целых три варианта - вручную, с ПК, и по умолчанию.
+![keenetic, шаг 8](/images/keenetic/keenetic_8.jpg)<br><br>
 
 
 ## Настройка Wi-Fi
-
+В правом меню перейдите на вкладку Мои сети и Wi-Fi. Там очевидным образом можно сменить название сети и пароль от нее.
 
 ## Дополнительно
-Советую также поставить перезагрузку по расписанию (на 6 утра, например), так роутер будет работать стабильнее. Делается это следующим образом:
+Советую также поставить перезагрузку по расписанию (на 6 утра, например), так роутер будет работать стабильнее.
