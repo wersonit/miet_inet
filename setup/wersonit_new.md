@@ -16,6 +16,10 @@
 4. В том же новом окне перейдите во вкладку "Статус -> системный журнал". В поле "Не □ содержит" напишите `wpa_supplicant`. В итоге у вас должно быть два окна. В первом должна быть открыта вкладка MIET, а во втором - системный журнал.<br><br>
 ![802.1X, шаг 4](/images/wersonit/wersonit_new_8021x_4.jpg)<br><br>
 5. Во вкладке MIET нажмите по очереди Enable, а затем Start. Спустя какое-то время в системном журнале должны появиться вот такие строчки: <br><br>
+
+> [!NOTE]  
+> На некоторых устройствах вместо ```wan``` будет написано ```eth0.2```. Это тоже правильно.
+
 ```
 daemon.notice wpa_supplicant[1234]: EAP-MSCHAPV2: Authentication succeeded
 daemon.notice wpa_supplicant[1234]: EAP-TLV: TLV Result - Successs - EAP-TLV/Phase2 Completed
@@ -23,8 +27,6 @@ daemon.notice wpa_supplicant[1234]: wan: CTRL-EVENT-EAP-SUCCESS EAP authenticati
 daemon.notice wpa_supplicant[1234]: wan: CTRL-EVENT-CONNECTED - Connection to 01:80:c2:00:00:03 completed [id=0 id_str=]
 daemon.notice wpa_supplicant[1234]: no PHY for ifname wan
 ```
-> [!NOTE]  
-> На некоторых устройствах вместо ```wan``` будет написано ```eth0.2```. Это тоже правильно.
 <br>Строки длинные, с телефона нужно пролистать вправо. Если вы видите именно это, то авторизация прошла успешно и далее можно подключать тариф у провайдера. Если же у вас выводит что-то другое, то вам [сюда](/setup/troubleshooting.md#вариант-1)<br><br>
 
 ## Настройка Wi-Fi<br>
