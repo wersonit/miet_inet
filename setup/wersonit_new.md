@@ -23,6 +23,8 @@ daemon.notice wpa_supplicant[1234]: wan: CTRL-EVENT-EAP-SUCCESS EAP authenticati
 daemon.notice wpa_supplicant[1234]: wan: CTRL-EVENT-CONNECTED - Connection to 01:80:c2:00:00:03 completed [id=0 id_str=]
 daemon.notice wpa_supplicant[1234]: no PHY for ifname wan
 ```
+> [!NOTE]  
+> На некоторых устройствах вместо ```wan``` будет написано ```eth0.2```. Это тоже правильно.
 <br>Строки длинные, с телефона нужно пролистать вправо. Если вы видите именно это, то авторизация прошла успешно и далее можно подключать тариф у провайдера. Если же у вас выводит что-то другое, то вам [сюда](/setup/troubleshooting.md#вариант-1)<br><br>
 
 ## Настройка Wi-Fi<br>
